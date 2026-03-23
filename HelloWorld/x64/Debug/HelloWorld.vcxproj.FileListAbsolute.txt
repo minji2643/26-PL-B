@@ -1,0 +1,2 @@
+D:\Lecture\PL\CodePractice\HelloWorld\x64\Debug\HelloWorld.exe
+D:\Lecture\PL\Code-Practice\HelloWorld\x64\Debug\HelloWorld.exe
